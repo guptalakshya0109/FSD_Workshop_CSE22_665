@@ -1,0 +1,32 @@
+body {
+ margin: 0;
+ font-family: Arial, sans-serif;
+ background: #fff8f0;
+ color: #402b20;
+}
+header {
+ background: #8b4513;
+ color: white;
+ text-align: center;
+ padding: 18px;
+}
+main {
+ max-width: 700px;
+ margin: 35px auto;
+ padding: 25px;
+ background: white;
+ border-radius: 10px;
+ box-shadow: 0 2px 8px #00000020;
+}
+nav {
+ margin-top: 25px;
+}
+nav a {
+ margin-right: 18px;
+ color: #8b4513;
+ font-weight: bold;
+ text-decoration: none;
+}
+li, p {
+ line-height: 1.8;
+}
